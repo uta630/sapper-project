@@ -8,6 +8,7 @@ setInterval(() => {
 
 <svelte:head>
 	<title>contents</title>
+	<meta name="description" content="contents">
 </svelte:head>
 
 <h1>contents this site</h1>

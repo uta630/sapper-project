@@ -55,6 +55,7 @@
 
 <svelte:head>
 	<title>{post.title}</title>
+	<meta name="description" content={post.title}>
 </svelte:head>
 
 <h1>{post.title}</h1>
